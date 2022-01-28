@@ -1,2 +1,2 @@
-# FYP
-Files for FYP (Student Attendance System) 
+# FYPII Project
+Source Codes for FYP II (Student Attendance System) 
